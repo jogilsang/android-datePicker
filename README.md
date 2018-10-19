@@ -9,9 +9,8 @@ dataPicker + timePicker
 
 Image
 =============
-
-![Alt text](/1.png)
-![Alt text](/2.png)
+<center><img src="/1.png" width="300" height="300"></center>
+<center><img src="/2.png" width="300" height="300"></center>
 
 <hr/>
 
