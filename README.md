@@ -9,8 +9,8 @@ dataPicker + timePicker
 
 Image
 =============
-<center><img src="/1.png" width="960" height="600"></center>
-<center><img src="/2.png" width="960" height="600"></center>
+<center><img src="/1.png" width="320" height="524"></center>
+<center><img src="/2.png" width="320" height="524"></center>
 
 <hr/>
 
